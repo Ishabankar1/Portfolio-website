@@ -1,0 +1,34 @@
+.container{
+    background-color: aquamarine;
+    height: 100%;
+    width: 100%;
+}
+h1{
+    background-color:rgb(23, 173, 223);
+    color: mintcream;
+    text-align: center;
+    padding: 40px;
+    margin: auto;
+
+}
+h2{
+    background-color: lightcoral;
+    color: azure;
+    text-align: initial;
+    padding: 10px;
+    margin:auto;
+}
+h3{
+    background-color: rgb(23, 173, 223);
+    color: azure;
+    text-align: initial;
+    padding: 10px;
+    margin:auto;
+}
+h4{
+    background-color: lightcoral;
+    color: azure;
+    text-align: initial;
+    padding: 10px;
+    margin:auto;
+}
